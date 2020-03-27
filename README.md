@@ -10,5 +10,9 @@ One year course consists of **2 parts**.
 3. Elliptic partial differential equation (Heat 2D Equation)
 4. Whatever I wish (Equation for soliton)
 
-2nd-part (in progress):
+2nd-part contains also **4 tasks**:
 
+1. Finite Element Method (Heat equation)
+2. Fourier Transform (Heat 2D equation)
+3. Hyperbolic partial differential equation (Wave equation)
+4. Extra task

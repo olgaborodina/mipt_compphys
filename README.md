@@ -1,7 +1,7 @@
 # mipt_compphys
-Here you can find tasks for computational physics in MIPT
+Here you can find tasks for computational physics in MIPT.
 
-One year course consists of **2 parts**.
+One year course consists of **2 parts** (autumn 2019 & spring 2020).
 
 1st-part contains **4 tasks**:
 
@@ -15,4 +15,4 @@ One year course consists of **2 parts**.
 1. Finite Element Method (Heat equation)
 2. Fourier Transform (Heat 2D equation)
 3. Hyperbolic partial differential equation (Wave equation)
-4. Extra task
+4. Fragmentation method & FFT (Schroedinger equation)
